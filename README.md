@@ -1,4 +1,6 @@
 # Marvil
+Product Manager
+
 
 ## Core Models
 
@@ -15,11 +17,13 @@
 > Groups
 > Users
 
+
 ## Product Models
 
 > Brand
 > Category
 > Product
+
 
 ## Location Models
 
